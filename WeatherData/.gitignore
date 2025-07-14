@@ -1,0 +1,10 @@
+# Ignore environment variables
+.env
+uploads/
+
+# Ignore node modules
+node_modules/
+
+# Optional: OS/system files
+.DS_Store
+Thumbs.db
